@@ -33,7 +33,7 @@
 - `chmod -R 775 storage bootstrap/cache`
 - `chown -R www-data:www-data storage bootstrap/cache`
 - `composer setup`
-- `php artisan migrate --seed`
+### After doing last step you should  see a que to see when you use ORDER'S STORE method you can see job dispatches for customer's revenue
 
 ### From the second time onwards
 - `docker compose up -d`
